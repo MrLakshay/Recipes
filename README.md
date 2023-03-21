@@ -1,6 +1,8 @@
-# recipes
+# Recipes
 
-A Flutter app for Recipes using API
+A Flutter app for Recipes.
+Single screen app using yummly API.
+Multiple screen will be added in Future.
 
 ## Getting Started
 
